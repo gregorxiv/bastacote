@@ -4,7 +4,7 @@ metadata:
   name: Bastacote
   description: Bastacote will get you!
   labels:
-    emergent-narrative.com/awesome: Super awesome
+    emergent-narrative.com/awesome: Awesome
   annotations:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
