@@ -1,0 +1,22 @@
+apiVersion: 0.1
+kind: Component
+metadata:
+  name: Bastacote
+  description: Bastacote will get you!
+  labels:
+    emergent-narrative.com/awesome: Super awesome
+  annotations:
+    example.com/service-discovery: artistweb
+    circleci.com/project-slug: github/example-org/artist-website
+  tags:
+    - java
+  links:
+    - url: https://github.com/gregorxiv/bastacote
+      title: Github
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: website
+  lifecycle: production
+  owner: georg-szwillus
+  system: public-websites
