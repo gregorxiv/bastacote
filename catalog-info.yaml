@@ -1,4 +1,4 @@
-apiVersion: '0.1-awesome'
+apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Bastacote
