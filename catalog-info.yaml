@@ -13,7 +13,7 @@ metadata:
   links:
     - url: https://github.com/gregorxiv/bastacote
       title: Github
-      icon: dashboard
+      icon: github
       type: admin-dashboard
 spec:
   type: website
